@@ -1,2 +1,3 @@
-#H1 👋🏼 Hola everyone!, soy Carmen Chávez 
-<img width="1584" height="398" alt="banner_carmen_chavez" src="https://github.com/user-attachments/assets/dfb3a746-1f5b-48ca-ad24-a40516ca4980" />
+#H1Hola everyone!
+<img width="1280" height="640" alt="banner_github_carmen_chvez" src="https://github.com/user-attachments/assets/e5f13cc6-2176-458a-a5dc-b412109df94a" />
+
