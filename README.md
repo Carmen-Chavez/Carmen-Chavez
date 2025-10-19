@@ -6,7 +6,9 @@
 
 📈 Mi trabajo se enfoca en el preprocesamiento, manipulación y análisis de datos. Cuando realizo un análisis, mi meta es encontrar insights relevantes, además de crear visualizaciones de datos que facilitan la interpretación de la información.
 Mi principal lenguaje de programación es:<img width="48" height="47" alt="image" src="https://github.com/user-attachments/assets/e6cf4989-3db1-40bb-8176-d68728165b6e" />
- y me sigo preparando 💪 en <img width="62" height="30" alt="image" src="https://github.com/user-attachments/assets/79407236-3b05-4c21-868e-c98a47f043e0" />      <img width="40" height="42" alt="image" src="https://github.com/user-attachments/assets/8e10084e-0ef6-4cbd-beb3-1fc97cd15a2c" />
+ y me sigo preparando 💪 en <img width="62" height="30" alt="image" src="https://github.com/user-attachments/assets/79407236-3b05-4c21-868e-c98a47f043e0" />   <img width="40" height="42" alt="image" src="https://github.com/user-attachments/assets/8e10084e-0ef6-4cbd-beb3-1fc97cd15a2c" />   <img width="84" height="47" alt="image" src="https://github.com/user-attachments/assets/85085921-55c0-471e-8155-dab70cb9fdd7" />   <img width="47" height="48" alt="image" src="https://github.com/user-attachments/assets/1b8aedda-f458-4e81-bc84-39b7f475f52b" />
+
+
 
 En cuanto a librerías manejo 
 
