@@ -1,3 +1,4 @@
-#H1Hola everyone!
-<img width="1280" height="640" alt="banner_github_carmen_chvez" src="https://github.com/user-attachments/assets/e5f13cc6-2176-458a-a5dc-b412109df94a" />
+<div align="center">
+<h1 align="center"> >Bienvenidos<</div>
+<img width="1584" height="398" alt="banner_github" src="https://github.com/user-attachments/assets/118ce88f-9c03-4e8b-9b67-0fb2efe0bc5f" />
 
