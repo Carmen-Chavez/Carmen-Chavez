@@ -4,9 +4,7 @@
 
 ## Sobre mí:
 
-📈 Mi trabajo se enfoca en el preprocesamiento, manipulación y análisis de datos. Cuando realizo un análisis, mi meta es encontrar insights relevantes, además de crear visualizaciones de datos que facilitan la interpretación de la información.
-Mi principal lenguaje de programación es:<img width="48" height="47" alt="image" src="https://github.com/user-attachments/assets/e6cf4989-3db1-40bb-8176-d68728165b6e" />
- y me sigo preparando 💪 en <img width="62" height="30" alt="image" src="https://github.com/user-attachments/assets/79407236-3b05-4c21-868e-c98a47f043e0" />   <img width="40" height="42" alt="image" src="https://github.com/user-attachments/assets/8e10084e-0ef6-4cbd-beb3-1fc97cd15a2c" />   <img width="71" height="71" alt="image" src="https://github.com/user-attachments/assets/64e26914-dcf1-417e-ae34-468b6f71b8bd" />   <img width="106" height="59" alt="image" src="https://github.com/user-attachments/assets/e1c3f412-d35c-4f89-8d51-ea46d0cad76f" />
+📈 Actualmente me encuentro en un proceso de transición de carrera, mi formación académica me permite comprender y aplicar metodologías científicas en diferentes contextos y me ha brindado una sólida base en Análisis de Datos, área donde me encuentro incursionando. Mi experiencia práctica fue realizada en bootcamp de TripleTen con 15 proyectos (portafolio en GitHub). Mi trabajo se enfoca en recolección, limpieza y visualización. Interesada en contar historias a través del análisis para resaltar información clave y/o tendencias, ayudando así a proporcionar información de valor de manera oportuna para la toma de decisiones.
 
 
 
