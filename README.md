@@ -8,15 +8,16 @@
 
 
 
-En cuanto a librerías manejo 
+### En cuanto a librerías manejo 
 
-<img width="102" height="42" alt="image" src="https://github.com/user-attachments/assets/a2905ca2-bd22-4430-bbb3-782762b0d08d" />
+	Pandas
+	Sklearn
+	Sqlalchemy
+	Request
+	Seaborn
+	Matplotlib
+	Scipy
 
-<img width="82" height="42" alt="image" src="https://github.com/user-attachments/assets/beffd5a2-0135-442d-8003-1618c98f10d1" />
-
-<img width="92" height="41" alt="image" src="https://github.com/user-attachments/assets/d4480334-d67d-41f4-8690-2cff6babc45a" />
-
-<img width="103" height="29" alt="image" src="https://github.com/user-attachments/assets/81dbb209-adad-47e3-a119-d50c57929082" />
 
 Entre otras!...
 
