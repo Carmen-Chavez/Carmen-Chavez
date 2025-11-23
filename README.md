@@ -6,17 +6,21 @@
 
 📈 Actualmente me encuentro en un proceso de transición de carrera, mi formación académica me permite comprender y aplicar metodologías científicas en diferentes contextos y me ha brindado una sólida base en Análisis de Datos, área donde me encuentro incursionando. Mi experiencia práctica fue realizada en bootcamp de TripleTen con 15 proyectos (portafolio en GitHub). Mi trabajo se enfoca en recolección, limpieza y visualización. Interesada en contar historias a través del análisis para resaltar información clave y/o tendencias, ayudando así a proporcionar información de valor de manera oportuna para la toma de decisiones.
 
+Herramientas:
+- Python
+- SQL
+- Pqueteria Office (Excel, PPT, Word)
+- Power BI
+- Tableau
 
-
-### En cuanto a librerías manejo 
-
-	Pandas
-	Sklearn
-	Sqlalchemy
-	Request
-	Seaborn
-	Matplotlib
-	Scipy
+Librerías:
+- Pandas
+- Sklearn
+- Sqlalchemy
+- Request
+- Seaborn
+- Matplotlib
+- Scipy
 
 
 Entre otras!...
